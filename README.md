@@ -1,3 +1,7 @@
 # DailyChatAI
 ## https://sevenworks.eu.org/commentdl.html
-AI in Daily Chat using markovify and huge lists of Daily Chat comments.
+```
+TODO:
+- Post "Running Sevenworks Comment AI Model {model_name}!" on profile
+- Get Daily Chat automatically
+```
